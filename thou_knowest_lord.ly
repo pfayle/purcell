@@ -51,7 +51,7 @@ global = {
         \time 4/4 ees ees8 des ces2 | bes4
         
         ees f ges | d ees bes ees | f ges d ees |
-        bes des ces bes | aes bes bes2 | r4 aes g2 \bar "|."
+        bes des ces bes | aes bes g2 | r4 aes g2 \bar "|."
         }
         \addlyrics {
             \HomophonicLyrics
