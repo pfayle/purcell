@@ -1,4 +1,8 @@
 \version "2.16.2"
+\header {
+  title = "Thou knowest, Lord"
+  composer = "Henry Purcell"
+}
 HomophonicLyrics = \lyricmode {
   Thou know -- est, | Lord, the se -- crets | of our hearts. |  Shut not, |
   shut not thy | mer -- ci -- ful ear un -- | to our pray -- er, |
